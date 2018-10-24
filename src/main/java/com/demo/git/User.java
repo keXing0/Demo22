@@ -1,5 +1,5 @@
 package com.demo.git;
 
 public class User {
-	private String username;
+	private String username12;
 }
