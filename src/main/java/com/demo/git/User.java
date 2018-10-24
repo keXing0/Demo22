@@ -3,6 +3,7 @@ package com.demo.git;
 public class User { 
 	private String username;
 	private String password;
+	private String sex;
 	
 	public String getUsername() {
 		return username;
